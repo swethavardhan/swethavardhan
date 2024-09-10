@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg" alt="MasterHead" width="800px">
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg" alt="MasterHead" width="600px">
 </a>
 <h1 align="center">Hi, I'm Swetha Pooduru</h1>
 <h3 align="center">Proficient in Data Analysis with a keen interest in Machine Learning, currently advancing skills in Data Engineering to broaden expertise within the AI domain.</h3>
