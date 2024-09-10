@@ -1,11 +1,11 @@
-[![MasterHead](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Engineer_enf4cd.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Swetha Pooduru</h1>
+[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg)](https://rishavchanda.io)
+<h1 align="center">Hi, I'm Swetha Pooduru</h1>
 <h3 align="center">Proficient in Data Analysis with a keen interest in Machine Learning, currently advancing skills in Data Engineering to broaden expertise within the AI domain.</h3>
 
 
-- 🔭 I’m currently working on **Data Engineering Projects**
+- 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **AWS, DataBricks**
+- 🌱 I’m currently learning **AWS, MongoDB**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/swethavardhan](https://github.com/swethavardhan)
 
-- 💬 Ask me about **Power BI, Data Analysis, ML models**
+- 💬 Ask me about **Power BI, Data Analysis, Feature Engineering, ML models**
 
 - 📫 How to reach me **swethapooduru@gmail.com**
 
@@ -31,4 +31,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethavardhan&" alt="swethavardhan" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethavardhan&" alt="swethavardhan" /></p>-->
