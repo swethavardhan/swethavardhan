@@ -1,17 +1,15 @@
 <a href="https://rishavchanda.io">
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg" alt="MasterHead" width="600px",height=auto>
+  <img src="https://staging.herovired.com/wp-content/uploads/2023/04/What-Is-Data-Definition-01.webp" alt="MasterHead" width="600px",height=auto>
 </a>
 <h1 align="center">Hi, I'm Swetha Pooduru</h1>
 <h3 align="center">Proficient in Data Analysis with a keen interest in Machine Learning, currently advancing skills in Data Engineering to broaden expertise within the AI domain.</h3>
 
 
-- 🔭 I’m currently working on **Data Science Projects**
+- I’m currently working on **Data Analysis Projects**
 
-- 🌱 I’m currently learning **AWS, MongoDB**
+- I’m currently learning **DAX**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 🤝 I’m looking for help with **Big Data**
+- I’m looking to collaborate on **BIg Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swethavardhan](https://github.com/swethavardhan)
 
