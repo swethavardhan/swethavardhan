@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/48ec75f4-df90-481f-abd5-87016be078e8)<a href="https://rishavchanda.io">
-  <img src="" alt="MasterHead" width="600px",height=auto>
+  <img src="">
 </a>
 <h1 align="center">Hi, I'm Swetha Pooduru</h1>
 <h3 align="center">Proficient in Data Analysis with a keen interest in Machine Learning, currently advancing skills in Data Engineering to broaden expertise within the AI domain.</h3>
