@@ -1,5 +1,5 @@
-<a href="https://rishavchanda.io">
-  <img src="https://staging.herovired.com/wp-content/uploads/2023/04/What-Is-Data-Definition-01.webp" alt="MasterHead" width="600px",height=auto>
+![image](https://github.com/user-attachments/assets/48ec75f4-df90-481f-abd5-87016be078e8)<a href="https://rishavchanda.io">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd5AS1XRq9EXA2KK4WIqnxvBGDHUEeaWUXY2jyyjRXOZMc2MNHn6eFvffSrQ3JfbLc5s&usqp=CAU" alt="MasterHead" width="600px",height=auto>
 </a>
 <h1 align="center">Hi, I'm Swetha Pooduru</h1>
 <h3 align="center">Proficient in Data Analysis with a keen interest in Machine Learning, currently advancing skills in Data Engineering to broaden expertise within the AI domain.</h3>
